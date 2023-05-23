@@ -6,7 +6,7 @@
 colors: $dark-flame-cs.main
 document-title: Welcome!
 document-description: Learn how to do SEO!
-document-image: $assets.files.images.search-optimization.png.light
+document-image: $assets.files.images.seo-meta.png.light
 
 This is the body.
 

@@ -6,9 +6,9 @@
 colors: $dark-flame-cs.main
 document-title: Welcome!
 document-description: Learn how to do SEO!
-document-image: https://gargajit.github.io/optimization/images/seo-meta.png
+;; document-image: https://gargajit.github.io/optimization/images/seo-meta.png
+document-image: $assets.files.images.seo-meta.png.light
 
-;; $assets.files.images.seo-meta.png.light
 
 This is the body.
 

@@ -1,6 +1,6 @@
 -- import: fastn-community.github.io/doc-site as ds
 -- import: fifthtry.github.io/dark-flame-cs
--- import: optimization/assets
+-- import: gargajit.github.io/optimization/assets
 
 -- ds.page: This is page title
 colors: $dark-flame-cs.main
